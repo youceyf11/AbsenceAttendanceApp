@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079477247038",
+    "project_id": "profattendaceemsi",
+    "storage_bucket": "profattendaceemsi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079477247038:android:d2591eaa8cf94f5481456f",
+        "android_client_info": {
+          "package_name": "com.example.profattendaceemsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3GpfLlOqubvnAaMeXMOzQGG2luyOdzxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
